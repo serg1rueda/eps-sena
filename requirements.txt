@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flasgger
+pymysql
+gunicorn
+flask-jwt-extended
+werkzeug
+
